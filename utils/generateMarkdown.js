@@ -3,17 +3,17 @@
 function renderLicenseBadge(license) {
 
   if (license == 'GNU License v3.0 or Later'){
-    return `[![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.gnu.org/licenses/gpl-3.0-standalone.html)`
+    return `[![License](https://img.shields.io/badge/license-GPL-blue)](https://www.gnu.org/licenses/gpl-3.0-standalone.html)`
   } 
-  // else if (license == 'License 2'){
-  //   return `[!License[(img link)]](license link)`
-  // }
-  // else if (license == 'License 3'){
-  //   return `[!License[(img link)]](license link)`
-  // }
-  // else if (license == 'License 2'){
-  //   return `[!License[(img link)]](license link)`
-  // }
+  else if (license == 'MIT License'){
+    return `[!License[(https://img.shields.io/badge/license-MIT-green.svg)]](https://spdx.org/licenses/MIT.html)`
+  }
+  else if (license == 'Apache 2.0'){
+    return `[!License[(https://img.shields.io/badge/license-Apache-blue)]](http://www.apache.org/licenses/LICENSE-2.0)`
+  }
+  else if (license == 'None'){
+    return `[!License[(img link)]](license link)`
+  }
 }
 
 // TODO: Create a function that returns the license link
