@@ -1,6 +1,6 @@
 
-  # professional readme again
-  [!License[(https://img.shields.io/badge/license-MIT-green.svg)]](https://spdx.org/licenses/MIT.html)
+  # danas awesome project
+  [!License[(https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)
 
   ## Description
   undefined
@@ -20,14 +20,14 @@
   ok
 
   ## Credits
-  the internet
+  ok
 
   ## Tests
-  trial and error
+  magic
 
   ## Questions
   Find the link to my Github here: [https:.//github.com/dbottoni]
-  Contact me via email danabottoni@gmail.com
+  Contact me via email dana@gmail.com
 
 
 
