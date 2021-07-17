@@ -1,5 +1,5 @@
 
-  # danas jam
+  # danas theme park
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)
 
   ## Description
@@ -14,20 +14,20 @@
   
 
   ## Installation
-  ok
+  plz
 
   ## Usage
-  ok
+  get
 
   ## Credits
-  ok
+  out
 
   ## Tests
-  ok
+  ya don't
 
   ## Questions
-  Find the link to my Github here: [https:.//github.com/dbottoni]
-  Contact me via email dna@gmail.com
+  Find the link to my Github here: [https:.//github.com/dbottoni](https://github.com/dbottoni)
+  Contact me via email danabottoni@gmail.com
 
 
 
