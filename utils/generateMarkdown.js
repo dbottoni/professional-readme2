@@ -2,10 +2,18 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
 
-  if (license == 'License 1'){
-    return `
-    [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)]`
-  }
+  if (license == 'GNU License v3.0 or Later'){
+    return `[![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.gnu.org/licenses/gpl-3.0-standalone.html)`
+  } 
+  // else if (license == 'License 2'){
+  //   return `[!License[(img link)]](license link)`
+  // }
+  // else if (license == 'License 3'){
+  //   return `[!License[(img link)]](license link)`
+  // }
+  // else if (license == 'License 2'){
+  //   return `[!License[(img link)]](license link)`
+  // }
 }
 
 // TODO: Create a function that returns the license link
@@ -18,7 +26,41 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `
+  # ${data.title}
+  ${renderLicenseBadge(data.license)}
+
+  ## Description
+  ${data.desciption}
+
+  ## Table of Contents
+
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [Tests](#tests)
+  
+
+  ## Installation
+  ${data.installation}
+
+  ## Usage
+  ${data.usage}
+
+  ## Credits
+  ${data.credits}
+
+  ## Tests
+  ${data.tests}
+
+  ## Questions
+  Find the link to my Github here: [https:.//github.com/${data.username}]
+  Contact me via email ${data.email}
+
+
+
+
+
 
 `;
 }
