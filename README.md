@@ -1,6 +1,6 @@
 
-  # danas awesome project
-  [!License[(https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)
+  # danas jam
+  [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)
 
   ## Description
   undefined
@@ -23,11 +23,11 @@
   ok
 
   ## Tests
-  magic
+  ok
 
   ## Questions
   Find the link to my Github here: [https:.//github.com/dbottoni]
-  Contact me via email dana@gmail.com
+  Contact me via email dna@gmail.com
 
 
 

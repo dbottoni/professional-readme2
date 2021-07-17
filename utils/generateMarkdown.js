@@ -6,13 +6,10 @@ function renderLicenseBadge(license) {
     return `[![License](https://img.shields.io/badge/license-GPL-blue)](https://www.gnu.org/licenses/gpl-3.0-standalone.html)`
   } 
   else if (license == 'MIT License'){
-    return `[!License[(https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)`
+    return `[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)`
   }
   else if (license == 'Apache 2.0'){
-    return `[!License[(https://img.shields.io/badge/license-Apache-blue)](http://www.apache.org/licenses/LICENSE-2.0)`
-  }
-  else if (license == 'None'){
-    return `[!License[(img link)](license link)`
+    return `[![License](https://img.shields.io/badge/license-Apache-blue)](http://www.apache.org/licenses/LICENSE-2.0)`
   }
 }
 
