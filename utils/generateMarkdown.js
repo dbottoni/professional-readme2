@@ -45,7 +45,7 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
   ${renderLicenseBadge(data.license)}
-
+ 
   ## Description
   ${data.description}
 
@@ -68,6 +68,11 @@ function generateMarkdown(data) {
 
   ## Tests
   ${data.tests}
+
+  ## License
+   Licensed with ${data.license}
+  ${renderLicenseSection(data.license)}
+
 
   ## Questions
   Find the link to my Github here: [https:.//github.com/${data.username}](https://github.com/${data.username})

@@ -1,9 +1,9 @@
 
   # professional readme
-  [![License](https://img.shields.io/badge/license-Apache-blue)](http://www.apache.org/licenses/LICENSE-2.0)
-
+  [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)
+ 
   ## Description
-  ok
+  Concise generation of a professional structure READme file
 
   ## Table of Contents
 
@@ -14,16 +14,23 @@
   
 
   ## Installation
-  no
+  open terminal, enter 'node index', follow the prompts
 
   ## Usage
-  yes
+  one
 
   ## Credits
-  your mom
+  the internet
 
   ## Tests
-  magic
+  ok
+
+  ## License
+   Licensed with MIT License
+  ### MIT License
+    A short and simple permissive license with conditions only requiring preservation of copyright and license notices. 
+    Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
 
   ## Questions
   Find the link to my Github here: [https:.//github.com/dbottoni](https://github.com/dbottoni)
