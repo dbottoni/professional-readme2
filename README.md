@@ -1,9 +1,9 @@
 
-  # Professional ReadMe Generator
-  undefined
+  # Professional READme Generator
+  [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)
  
   ## Description
-  Generation of a professionaly structured READme file
+  OK
   
 
   ## Table of Contents
@@ -15,24 +15,27 @@
   
 
   ## Installation
-  Open command line, cd into project file, enter "node index", follow the prompts
+  OK
 
 
   ## Usage
-  When creating a new project, can use this to create consistent and professional READme files
+  OK
 
 
   ## Credits
-  None
+  OK
 
 
   ## Tests
-  Following the steps above, add and commit file into GitHub
+  Magic
 
 
   ## License
-   Licensed with None
-  undefined
+   Licensed with MIT License
+  ### MIT License
+    A short and simple permissive license with conditions only requiring preservation
+     of copyright and license notices. Licensed works, modifications, and larger works 
+     may be distributed under different terms and without source code.
 
 
   ## Questions
