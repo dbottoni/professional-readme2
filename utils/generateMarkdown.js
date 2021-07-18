@@ -50,6 +50,7 @@ function generateMarkdown(data) {
  
   ## Description
   ${data.description}
+  
 
   ## Table of Contents
 
@@ -62,14 +63,18 @@ function generateMarkdown(data) {
   ## Installation
   ${data.installation}
 
+
   ## Usage
   ${data.usage}
+
 
   ## Credits
   ${data.credits}
 
+
   ## Tests
   ${data.tests}
+
 
   ## License
    Licensed with ${data.license}

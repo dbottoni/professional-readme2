@@ -1,9 +1,10 @@
 
-  # dana
-  [![License](https://img.shields.io/badge/license-Apache-blue)](http://www.apache.org/licenses/LICENSE-2.0)
+  # Professional ReadMe Generator
+  undefined
  
   ## Description
-  description
+  Generation of a professionaly structured READme file
+  
 
   ## Table of Contents
 
@@ -14,24 +15,24 @@
   
 
   ## Installation
-  step 1 step 2 step 3
+  Open command line, cd into project file, enter "node index", follow the prompts
+
 
   ## Usage
-  ok
+  When creating a new project, can use this to create consistent and professional READme files
+
 
   ## Credits
-  k
+  None
+
 
   ## Tests
-  magi
+  Following the steps above, add and commit file into GitHub
+
 
   ## License
-   Licensed with Apache 2.0
-   ### Apache 2.0
-    A permissive license whose main conditions require preservation of copyright and license 
-    notices. Contributors provide an express grant of patent rights. Licensed works, 
-    modifications, and larger works may be distributed under different terms and without source code.
-    
+   Licensed with None
+  undefined
 
 
   ## Questions

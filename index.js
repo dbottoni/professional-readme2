@@ -8,6 +8,32 @@ const generateMarkdown = require("./utils/generateMarkdown");
 // TODO: Create an array of questions for user input
 
 const promptUser = [
+    {
+    type: 'input',
+    name: 'username',
+    message: 'Please enter your GitHub username (Required)',
+      validate: usernameInput => {
+      if (usernameInput) {
+        return true;
+      } else {
+        console.log('Required: GitHub Username');
+        return false;
+      }
+    }
+  },
+  {
+    type: 'input',
+    name: 'email',
+    message: 'What is your email address? (Required)',
+      validate: (emailInput) => {
+        if (emailInput){
+        return true;
+      } else {
+        console.log('Required: Email address');
+        return false;
+      }
+    }
+  },
   {
     type: 'input',
     name: 'title',
@@ -98,34 +124,8 @@ const promptUser = [
       }
     }
   },
-  {
-    type: 'input',
-    name: 'username',
-    message: 'Please enter your GitHub username (Required)',
-      validate: usernameInput => {
-      if (usernameInput) {
-        return true;
-      } else {
-        console.log('Required: GitHub Username');
-        return false;
-      }
-    }
-  },
-  {
-    type: 'input',
-    name: 'email',
-    message: 'What is your email address? (Required)',
-      validate: (emailInput) => {
-        if (emailInput){
-        return true;
-      } else {
-        console.log('Required: Email address');
-        return false;
-      }
-    }
-  }
-]
 
+]
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
