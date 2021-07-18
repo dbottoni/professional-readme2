@@ -2,7 +2,7 @@
   # Professional ReadMe Generator
    
   ## Description
-  A Node Project created to generate professionally structured ReadMe files
+  A Node file used to generate professionally structured and consistent ReadMe files
 
 
   ## Table of Contents
@@ -14,27 +14,25 @@
   
 
   ## Installation
-  No
+  Step by Step Instructions for your project go here
 
 
   ## Usage
-  Instructions
+  Instructions on the usage of the project will go here
 
 
   ## Credits
-  The Internet, Awesome Study Group
+  Awesome Study Group
 
 
   ## Tests
-  Magically
+  Following the prompts provided, pushing to GitHub
 
 
   ## License
-   Licensed with MIT License
-  [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)
-  ### MIT License
-    (https://www.gnu.org/licenses/gpl-3.0-standalone.html)
-  [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)
+   Licensed with GNU License v3.0 or Later
+  [![License](https://img.shields.io/badge/license-GPL-blue)](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
+  [![License](https://img.shields.io/badge/license-GPL-blue)](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
   
 
 
