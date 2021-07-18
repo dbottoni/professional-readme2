@@ -1,10 +1,10 @@
 
-  # Professional READme Generator
+  # pro readme
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)
  
   ## Description
-  OK
-  
+  ok
+
 
   ## Table of Contents
 
@@ -15,19 +15,19 @@
   
 
   ## Installation
-  OK
+  no
 
 
   ## Usage
-  OK
+  surely
 
 
   ## Credits
-  OK
+  the internet
 
 
   ## Tests
-  Magic
+  magic
 
 
   ## License
@@ -36,14 +36,12 @@
     A short and simple permissive license with conditions only requiring preservation
      of copyright and license notices. Licensed works, modifications, and larger works 
      may be distributed under different terms and without source code.
+  undefined
 
 
   ## Questions
-  Find the link to my Github here: [https:.//github.com/dbottoni](https://github.com/dbottoni)
-  Contact me via email danabottoni@gmail.com
-
-
-
-
+  ### Please contact me with any questions;
+  ### Github: [https:.//github.com/dbottoni](https://github.com/dbottoni)
+  ### Email dana
 
 

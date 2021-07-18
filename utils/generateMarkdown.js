@@ -50,7 +50,7 @@ function generateMarkdown(data) {
  
   ## Description
   ${data.description}
-  
+
 
   ## Table of Contents
 
@@ -79,15 +79,13 @@ function generateMarkdown(data) {
   ## License
    Licensed with ${data.license}
   ${renderLicenseSection(data.license)}
+  ${renderLicenseLink(data.license)}
 
 
   ## Questions
-  Find the link to my Github here: [https:.//github.com/${data.username}](https://github.com/${data.username})
-  Contact me via email ${data.email}
-
-
-
-
+  ### Please contact me with any questions;
+  ### Github: [https:.//github.com/${data.username}](https://github.com/${data.username})
+  ### Email ${data.email}
 
 
 `;
