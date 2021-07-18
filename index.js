@@ -1,8 +1,6 @@
 // TODO: Include packages needed for this application
 const fs = require("fs");
-//const { truncate } = require("fs/promises");
 const inquirer = require("inquirer");
-//const { generate } = require("rxjs");
 const generateMarkdown = require("./utils/generateMarkdown");
 
 // TODO: Create an array of questions for user input
