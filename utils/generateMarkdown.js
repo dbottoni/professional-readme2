@@ -24,18 +24,20 @@ function renderLicenseSection(license) {
     return '';
   } else if (license === 'GNU License v3.0 or Later'){
     return ` ### ${license}
-    Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, 
-    which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. 
-    Contributors provide an express grant of patent rights.`
+    Permissions of this strong copyleft license are conditioned on making available 
+    complete source code of licensed works and modifications, which include larger 
+    works using a licensed work, under the same license. Copyright and license notices 
+    must be preserved. Contributors provide an express grant of patent rights.`
   } else if (license === 'MIT License'){
     return `### ${license}
-    A short and simple permissive license with conditions only requiring preservation of copyright and license notices. 
-    Licensed works, modifications, and larger works may be distributed under different terms and without source code.`
+    A short and simple permissive license with conditions only requiring preservation
+     of copyright and license notices. Licensed works, modifications, and larger works 
+     may be distributed under different terms and without source code.`
   } else if (license === 'Apache 2.0'){
     return ` ### ${license}
-    A permissive license whose main conditions require preservation of copyright and license notices. 
-    Contributors provide an express grant of patent rights. 
-    Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+    A permissive license whose main conditions require preservation of copyright and license 
+    notices. Contributors provide an express grant of patent rights. Licensed works, 
+    modifications, and larger works may be distributed under different terms and without source code.
     `
   }
 }

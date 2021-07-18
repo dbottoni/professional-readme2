@@ -1,9 +1,9 @@
 
-  # professional readme
-  [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)
+  # dana
+  [![License](https://img.shields.io/badge/license-Apache-blue)](http://www.apache.org/licenses/LICENSE-2.0)
  
   ## Description
-  Concise generation of a professional structure READme file
+  description
 
   ## Table of Contents
 
@@ -14,22 +14,24 @@
   
 
   ## Installation
-  open terminal, enter 'node index', follow the prompts
+  step 1 step 2 step 3
 
   ## Usage
-  one
-
-  ## Credits
-  the internet
-
-  ## Tests
   ok
 
+  ## Credits
+  k
+
+  ## Tests
+  magi
+
   ## License
-   Licensed with MIT License
-  ### MIT License
-    A short and simple permissive license with conditions only requiring preservation of copyright and license notices. 
-    Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+   Licensed with Apache 2.0
+   ### Apache 2.0
+    A permissive license whose main conditions require preservation of copyright and license 
+    notices. Contributors provide an express grant of patent rights. Licensed works, 
+    modifications, and larger works may be distributed under different terms and without source code.
+    
 
 
   ## Questions
