@@ -1,9 +1,8 @@
 
-  # pro readme
-  [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://spdx.org/licenses/MIT.html)
- 
+  # Professional ReadMe
+   
   ## Description
-  ok
+  Generation of a professionally structured readme
 
 
   ## Table of Contents
@@ -15,33 +14,35 @@
   
 
   ## Installation
-  no
+  Magic
 
 
   ## Usage
-  surely
+  Ok
 
 
   ## Credits
-  the internet
+  The internet
 
 
   ## Tests
-  magic
+  More Magic
 
 
   ## License
-   Licensed with MIT License
-  ### MIT License
-    A short and simple permissive license with conditions only requiring preservation
-     of copyright and license notices. Licensed works, modifications, and larger works 
-     may be distributed under different terms and without source code.
+   Licensed with GNU License v3.0 or Later
+   [![License](https://img.shields.io/badge/license-GPL-blue)](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
+   ### GNU License v3.0 or Later
+    Permissions of this strong copyleft license are conditioned on making available 
+    complete source code of licensed works and modifications, which include larger 
+    works using a licensed work, under the same license. Copyright and license notices 
+    must be preserved. Contributors provide an express grant of patent rights.
   undefined
 
 
   ## Questions
   ### Please contact me with any questions;
   ### Github: [https:.//github.com/dbottoni](https://github.com/dbottoni)
-  ### Email dana
+  ### Email danabottoni@gmail.com
 
 
